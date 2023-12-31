@@ -1,7 +1,5 @@
 # Spotify Clone
 
-![Spotify Clone Logo](link-to-your-logo-image)
-
 ## Overview
 
 Welcome to the Spotify Clone project! This full-stack web application is crafted to replicate some of the key features of the popular music streaming service, Spotify.
