@@ -38,12 +38,7 @@ const UploadModal = () => {
     }
   };
 
-  const onSubmit: SubmitHandler<FieldValues> = async (values: {
-    image: any[];
-    song: any[];
-    title: any;
-    author: any;
-  }) => {
+  const onSubmit: SubmitHandler<FieldValues> = async (values) => {
     try {
       setIsLoading(true);
 
