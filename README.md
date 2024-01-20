@@ -22,8 +22,10 @@ Welcome to the Spotify Clone project! This full-stack web application is crafted
 
 ## Features
 
-- Feature 1: [Describe feature 1]
-- Feature 2: [Describe feature 2]
+- **Uploading Local Library:** Users can now upload their local music library to the Spotify Clone, expanding their music collection with personal favorites.
+
+- **Custom Toast Messages:** Enjoy a more personalized experience with custom toast messages that provide informative and engaging feedback throughout the application.
+
 - ...
 
 ## Getting Started
@@ -64,14 +66,6 @@ If you encounter any issues or have suggestions, please open an issue [here](lin
 ## Roadmap
 
 Our project roadmap outlines upcoming features and milestones. Check it out [here](link-to-roadmap).
-
-## Notice
-
-**Project Status: On Hold**
-
-This project is currently on hold, but fear not! We plan to resume development after some time. Life sometimes gets in the way, but the Spotify Clone will continue to evolve.
-
-Feel free to star ⭐ this repository to show your support! 🎉
 
 ---
 
