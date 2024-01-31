@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Spotify Clone project! This full-stack web application is crafted to replicate some of the key features of the popular music streaming service, Spotify.
+Welcome to the Spotify Clone project! This full-stack web application faithfully replicates some of the key features of the popular music streaming service, Spotify.
 
 ## Technologies Used
 
@@ -14,7 +14,6 @@ Welcome to the Spotify Clone project! This full-stack web application is crafted
 ### Backend:
 
 - Supabase (PostgreSQL as the database)
-- Stripe for payment processing
 
 ### Styling:
 
@@ -45,7 +44,7 @@ Welcome to the Spotify Clone project! This full-stack web application is crafted
 
 3. **Set up your environment variables:**
 
-   Create a `.env.local` file in the root of the project and add the necessary configuration for Next.js, Supabase, and Stripe.
+   Create a `.env.local` file in the root of the project and add the necessary configuration for Next.js and Supabase.
 
 4. **Run the development server:**
 
@@ -53,7 +52,7 @@ Welcome to the Spotify Clone project! This full-stack web application is crafted
    npm run dev
    ```
 
-   Visit [http://localhost:3000](http://localhost:3000) to view your app.
+   Visit [http://localhost:3000](http://localhost:3000) to explore your Spotify Clone.
 
 ## How to Contribute
 
