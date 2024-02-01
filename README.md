@@ -1,7 +1,6 @@
 # Spotify Clone
 
-![Screenshot]((https://github.com/GreNxNja/Spotify_Clone/blob/main/image.png))
-
+![Spotify Clone Screenshot](https://github.com/GreNxNja/Spotify_Clone/raw/main/image.png)
 
 ## Overview
 
