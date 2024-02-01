@@ -1,5 +1,8 @@
 # Spotify Clone
 
+![Screenshot]((https://github.com/GreNxNja/Spotify_Clone/blob/main/image.png))
+
+
 ## Overview
 
 Welcome to the Spotify Clone project! This full-stack web application faithfully replicates some of the key features of the popular music streaming service, Spotify.
