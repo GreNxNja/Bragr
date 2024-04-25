@@ -1,4 +1,4 @@
-# Spotify Clone
+# Bragr
 
 ## Overview
 
